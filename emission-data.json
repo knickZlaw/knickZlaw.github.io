@@ -1,0 +1,2504 @@
+{
+    "data": [
+ {
+  "Country": "Ägypten",
+  "Company": "Walmart",
+  "Emission": 3701
+ },
+ {
+  "Country": "Äquatorial Guinea",
+  "Company": "Saudi Aramco",
+  "Emission": 1271
+ },
+ {
+  "Country": "Äthiopien",
+  "Company": "State Grid",
+  "Emission": 17356
+ },
+ {
+  "Country": "Afghanistan",
+  "Company": "Amazon",
+  "Emission": 29078
+ },
+ {
+  "Country": "Aland",
+  "Company": "China National Petroleum",
+  "Emission": 38092
+ },
+ {
+  "Country": "Albanien",
+  "Company": "Sinopec Group",
+  "Emission": 31815
+ },
+ {
+  "Country": "Algerien",
+  "Company": "Exxon Mobil",
+  "Emission": 57341
+ },
+ {
+  "Country": "Andorra",
+  "Company": "Apple",
+  "Emission": 2677
+ },
+ {
+  "Country": "Angola",
+  "Company": "Shell",
+  "Emission": 22568
+ },
+ {
+  "Country": "Anguilla",
+  "Company": "UnitedHealth Group",
+  "Emission": 27649
+ },
+ {
+  "Country": "Antarktis",
+  "Company": "CVS Health",
+  "Emission": 8145
+ },
+ {
+  "Country": "Antigua und Barbuda",
+  "Company": "Trafigura Group",
+  "Emission": 19637
+ },
+ {
+  "Country": "Argentinien",
+  "Company": "China State Construction Engineering",
+  "Emission": 42917
+ },
+ {
+  "Country": "Armenien",
+  "Company": "Berkshire Hathaway",
+  "Emission": 19362
+ },
+ {
+  "Country": "Aruba",
+  "Company": "Volkswagen",
+  "Emission": 38783
+ },
+ {
+  "Country": "Aserbeidschan",
+  "Company": "Uniper",
+  "Emission": 2437
+ },
+ {
+  "Country": "Australien",
+  "Company": "Alphabet",
+  "Emission": 5689
+ },
+ {
+  "Country": "Bahamas",
+  "Company": "McKesson",
+  "Emission": 23751
+ },
+ {
+  "Country": "Bahrain",
+  "Company": "Toyota Motor",
+  "Emission": 4049
+ },
+ {
+  "Country": "Bangladesch",
+  "Company": "TotalEnergies",
+  "Emission": 31530
+ },
+ {
+  "Country": "Barbados",
+  "Company": "Glencore",
+  "Emission": 12425
+ },
+ {
+  "Country": "Belarus (Weissrussland)",
+  "Company": "BP",
+  "Emission": 25033
+ },
+ {
+  "Country": "Belgien",
+  "Company": "Chevron",
+  "Emission": 26688
+ },
+ {
+  "Country": "Belize",
+  "Company": "Cencora",
+  "Emission": 53497
+ },
+ {
+  "Country": "Benin",
+  "Company": "Samsung Electronics",
+  "Emission": 39907
+ },
+ {
+  "Country": "Bermuda",
+  "Company": "Costco Wholesale",
+  "Emission": 26085
+ },
+ {
+  "Country": "Bhutan",
+  "Company": "Hon Hai Precision Industry",
+  "Emission": 50143
+ },
+ {
+  "Country": "Bhutan",
+  "Company": "Industrial & Commercial Bank of China",
+  "Emission": 52693
+ },
+ {
+  "Country": "Bolivien",
+  "Company": "China Construction Bank",
+  "Emission": 25984
+ },
+ {
+  "Country": "Bolivien",
+  "Company": "Microsoft",
+  "Emission": 54366
+ },
+ {
+  "Country": "Bonaire, St. Eustatius und Saba",
+  "Company": "Stellantis",
+  "Emission": 57134
+ },
+ {
+  "Country": "Bosnien und Herzegowina",
+  "Company": "Agricultural Bank of China",
+  "Emission": 44434
+ },
+ {
+  "Country": "Botsuana",
+  "Company": "Ping An Insurance",
+  "Emission": 483
+ },
+ {
+  "Country": "Bouvetinsel",
+  "Company": "Cardinal Health",
+  "Emission": 49797
+ },
+ {
+  "Country": "Brasilien",
+  "Company": "Cigna",
+  "Emission": 2770
+ },
+ {
+  "Country": "Brit.Terr.Im Indischen Ozean",
+  "Company": "Marathon Petroleum",
+  "Emission": 3679
+ },
+ {
+  "Country": "Brunei Darussalam",
+  "Company": "Phillips 66",
+  "Emission": 43497
+ },
+ {
+  "Country": "Bulgarien",
+  "Company": "Sinochem Holdings",
+  "Emission": 51386
+ },
+ {
+  "Country": "Burkina Faso",
+  "Company": "China Railway Engineering Group",
+  "Emission": 36240
+ },
+ {
+  "Country": "Burundi",
+  "Company": "Valero Energy",
+  "Emission": 27542
+ },
+ {
+  "Country": "Chile",
+  "Company": "Gazprom",
+  "Emission": 28086
+ },
+ {
+  "Country": "Chile",
+  "Company": "China National Offshore Oil",
+  "Emission": 51857
+ },
+ {
+  "Country": "China",
+  "Company": "China Railway Construction",
+  "Emission": 13867
+ },
+ {
+  "Country": "Cook-Inseln Neuseel.Verwaltung",
+  "Company": "China Baowu Steel Group",
+  "Emission": 22360
+ },
+ {
+  "Country": "Costa Rica",
+  "Company": "Mitsubishi",
+  "Emission": 52554
+ },
+ {
+  "Country": "Cote D'Ivoire (Elfenbeinkueste)",
+  "Company": "Ford Motor",
+  "Emission": 3743
+ },
+ {
+  "Country": "Curaçao",
+  "Company": "Mercedes-Benz Group",
+  "Emission": 55553
+ },
+ {
+  "Country": "Dänemark",
+  "Company": "Home Depot",
+  "Emission": 9805
+ },
+ {
+  "Country": "Deutschland",
+  "Company": "Bank of China",
+  "Emission": 52307
+ },
+ {
+  "Country": "Dominica",
+  "Company": "General Motors",
+  "Emission": 31084
+ },
+ {
+  "Country": "Dominikanische Republik",
+  "Company": "Elevance Health",
+  "Emission": 21531
+ },
+ {
+  "Country": "Dschibuti",
+  "Company": "JD.com",
+  "Emission": 59358
+ },
+ {
+  "Country": "Ecuador",
+  "Company": "JPMorgan Chase",
+  "Emission": 32647
+ },
+ {
+  "Country": "El Salvador",
+  "Company": "China Life Insurance",
+  "Emission": 48429
+ },
+ {
+  "Country": "Eritrea",
+  "Company": "Electricité de France",
+  "Emission": 24683
+ },
+ {
+  "Country": "Estland",
+  "Company": "Equinor",
+  "Emission": 41310
+ },
+ {
+  "Country": "Eswatini",
+  "Company": "BMW Group",
+  "Emission": 19626
+ },
+ {
+  "Country": "Eswatini",
+  "Company": "Kroger",
+  "Emission": 54043
+ },
+ {
+  "Country": "Faeroeer Inseln Dän.Verwaltung",
+  "Company": "Enel",
+  "Emission": 34670
+ },
+ {
+  "Country": "Falklandinseln (Malvinen)",
+  "Company": "Centene",
+  "Emission": 1086
+ },
+ {
+  "Country": "Fidschi",
+  "Company": "ENI",
+  "Emission": 45018
+ },
+ {
+  "Country": "Finnland",
+  "Company": "China Mobile Communications",
+  "Emission": 8117
+ },
+ {
+  "Country": "Frankreich",
+  "Company": "China Communications Construction",
+  "Emission": 58826
+ },
+ {
+  "Country": "Franz. Südgebiete",
+  "Company": "Verizon Communications",
+  "Emission": 38349
+ },
+ {
+  "Country": "Französisch Guayana",
+  "Company": "China Minmetals",
+  "Emission": 1383
+ },
+ {
+  "Country": "Französisch Polynesien",
+  "Company": "Walgreens Boots Alliance",
+  "Emission": 30924
+ },
+ {
+  "Country": "Gabun",
+  "Company": "Allianz",
+  "Emission": 17139
+ },
+ {
+  "Country": "Gambia",
+  "Company": "Alibaba Group Holding",
+  "Emission": 32994
+ },
+ {
+  "Country": "Georgien",
+  "Company": "Xiamen C&D",
+  "Emission": 30900
+ },
+ {
+  "Country": "Ghana",
+  "Company": "Honda Motor",
+  "Emission": 54238
+ },
+ {
+  "Country": "Gibraltar",
+  "Company": "Petrobras",
+  "Emission": 33806
+ },
+ {
+  "Country": "Grenada",
+  "Company": "Shandong Energy Group",
+  "Emission": 27217
+ },
+ {
+  "Country": "Griechenland",
+  "Company": "E.ON",
+  "Emission": 8280
+ },
+ {
+  "Country": "Grönland (Dän.Verwaltung)",
+  "Company": "China Resources",
+  "Emission": 14342
+ },
+ {
+  "Country": "Großbritannien",
+  "Company": "Fannie Mae",
+  "Emission": 42141
+ },
+ {
+  "Country": "Guadeloupe (Franz.Verwaltung)",
+  "Company": "China Energy Investment",
+  "Emission": 39194
+ },
+ {
+  "Country": "Guam (US-Verwaltung)",
+  "Company": "Comcast",
+  "Emission": 22484
+ },
+ {
+  "Country": "Guatemala",
+  "Company": "AT&T",
+  "Emission": 36686
+ },
+ {
+  "Country": "Guernsey Insel",
+  "Company": "Deutsche Telekom",
+  "Emission": 17390
+ },
+ {
+  "Country": "Guinea",
+  "Company": "Pemex",
+  "Emission": 29621
+ },
+ {
+  "Country": "Guinea-Bissau",
+  "Company": "Meta Platforms",
+  "Emission": 2389
+ },
+ {
+  "Country": "Guyana",
+  "Company": "Bank of America",
+  "Emission": 32587
+ },
+ {
+  "Country": "Haiti",
+  "Company": "China Southern Power Grid",
+  "Emission": 23049
+ },
+ {
+  "Country": "Haiti",
+  "Company": "SAIC Motor",
+  "Emission": 1573
+ },
+ {
+  "Country": "Heard und Mc Donald Inseln (unter Austr.Verw.)",
+  "Company": "Hyundai Motor",
+  "Emission": 4804
+ },
+ {
+  "Country": "Honduras",
+  "Company": "China Post Group",
+  "Emission": 1987
+ },
+ {
+  "Country": "Hongkong",
+  "Company": "COFCO",
+  "Emission": 3732
+ },
+ {
+  "Country": "Indien",
+  "Company": "Reliance Industries",
+  "Emission": 27519
+ },
+ {
+  "Country": "Indonesien",
+  "Company": "Engie",
+  "Emission": 35710
+ },
+ {
+  "Country": "Irak",
+  "Company": "Target",
+  "Emission": 915
+ },
+ {
+  "Country": "Iran",
+  "Company": "AXA",
+  "Emission": 2463
+ },
+ {
+  "Country": "Irland",
+  "Company": "SK",
+  "Emission": 44686
+ },
+ {
+  "Country": "Island",
+  "Company": "Mitsui",
+  "Emission": 13689
+ },
+ {
+  "Country": "Israel",
+  "Company": "Indian Oil",
+  "Emission": 3593
+ },
+ {
+  "Country": "Italien",
+  "Company": "Xiamen ITG Holding Group",
+  "Emission": 13748
+ },
+ {
+  "Country": "Jamaika",
+  "Company": "Itochu",
+  "Emission": 28627
+ },
+ {
+  "Country": "Japan",
+  "Company": "Dell Technologies",
+  "Emission": 34066
+ },
+ {
+  "Country": "Jemen",
+  "Company": "Archer Daniels Midland",
+  "Emission": 79
+ },
+ {
+  "Country": "Jersey Insel",
+  "Company": "Citigroup",
+  "Emission": 2433
+ },
+ {
+  "Country": "Jordanien",
+  "Company": "CITIC Group",
+  "Emission": 14935
+ },
+ {
+  "Country": "Jungfern-Inseln (Britisch)",
+  "Company": "United Parcel Service",
+  "Emission": 1688
+ },
+ {
+  "Country": "Jungfern-Inseln (USA)",
+  "Company": "Pfizer",
+  "Emission": 21208
+ },
+ {
+  "Country": "Kaimaninseln",
+  "Company": "Deutsche Post DHL Group",
+  "Emission": 51359
+ },
+ {
+  "Country": "Kambodscha",
+  "Company": "Banco Santander",
+  "Emission": 10843
+ },
+ {
+  "Country": "Kamerun",
+  "Company": "PowerChina",
+  "Emission": 10282
+ },
+ {
+  "Country": "Kanada",
+  "Company": "Nestlé",
+  "Emission": 24583
+ },
+ {
+  "Country": "Kap Verde",
+  "Company": "Life Insurance Corp. of India",
+  "Emission": 5050
+ },
+ {
+  "Country": "Kasachstan",
+  "Company": "Lowe's",
+  "Emission": 30519
+ },
+ {
+  "Country": "Katar",
+  "Company": "Nippon Telegraph and Telephone",
+  "Emission": 18967
+ },
+ {
+  "Country": "Kenia",
+  "Company": "PTT",
+  "Emission": 50083
+ },
+ {
+  "Country": "Kirgisistan",
+  "Company": "Huawei Investment & Holding",
+  "Emission": 34993
+ },
+ {
+  "Country": "Kiribati",
+  "Company": "Johnson & Johnson",
+  "Emission": 51039
+ },
+ {
+  "Country": "Kokosinseln (Keeling)",
+  "Company": "Sinopharm",
+  "Emission": 22808
+ },
+ {
+  "Country": "Kolumbien",
+  "Company": "FedEx",
+  "Emission": 9367
+ },
+ {
+  "Country": "Kolumbien",
+  "Company": "COSCO Shipping",
+  "Emission": 25881
+ },
+ {
+  "Country": "Komoren",
+  "Company": "Humana",
+  "Emission": 32361
+ },
+ {
+  "Country": "Kongo",
+  "Company": "Brookfield",
+  "Emission": 26029
+ },
+ {
+  "Country": "Kongo, Demokratische Republik",
+  "Company": "Bosch Group",
+  "Emission": 58791
+ },
+ {
+  "Country": "Korea, Demokratische Volksrepublik",
+  "Company": "BASF",
+  "Emission": 42789
+ },
+ {
+  "Country": "Korea, Republik",
+  "Company": "People's Insurance Co. of China",
+  "Emission": 35382
+ },
+ {
+  "Country": "Kosovo",
+  "Company": "Royal Ahold Delhaize",
+  "Emission": 21780
+ },
+ {
+  "Country": "Kroatien",
+  "Company": "ENEOS Holdings",
+  "Emission": 51569
+ },
+ {
+  "Country": "Kuba",
+  "Company": "Hengli Group",
+  "Emission": 24320
+ },
+ {
+  "Country": "Kuba",
+  "Company": "Amer International Group",
+  "Emission": 50572
+ },
+ {
+  "Country": "Kuwait",
+  "Company": "Carrefour",
+  "Emission": 42126
+ },
+ {
+  "Country": "Laos",
+  "Company": "Energy Transfer",
+  "Emission": 28194
+ },
+ {
+  "Country": "Lesotho",
+  "Company": "BNP Paribas",
+  "Emission": 10102
+ },
+ {
+  "Country": "Lesotho",
+  "Company": "State Farm Insurance",
+  "Emission": 26599
+ },
+ {
+  "Country": "Lettland",
+  "Company": "Seven & I Holdings",
+  "Emission": 28859
+ },
+ {
+  "Country": "Libanon",
+  "Company": "HSBC Holdings",
+  "Emission": 46436
+ },
+ {
+  "Country": "Liberien",
+  "Company": "China FAW Group",
+  "Emission": 12665
+ },
+ {
+  "Country": "Libysch-Arabische Dschamahirija",
+  "Company": "China Telecommunications",
+  "Emission": 58624
+ },
+ {
+  "Country": "Liechtenstein",
+  "Company": "Freddie Mac",
+  "Emission": 10867
+ },
+ {
+  "Country": "Litauen",
+  "Company": "Crédit Agricole",
+  "Emission": 9950
+ },
+ {
+  "Country": "Luxemburg",
+  "Company": "PepsiCo",
+  "Emission": 8859
+ },
+ {
+  "Country": "Macao",
+  "Company": "Zhejiang Rongsheng Holding Group",
+  "Emission": 22277
+ },
+ {
+  "Country": "Madagaskar",
+  "Company": "Assicurazioni Generali",
+  "Emission": 23185
+ },
+ {
+  "Country": "Malawi",
+  "Company": "Wuchan Zhongda Group",
+  "Emission": 34950
+ },
+ {
+  "Country": "Malaysia",
+  "Company": "Petronas",
+  "Emission": 24893
+ },
+ {
+  "Country": "Malediven",
+  "Company": "Sony",
+  "Emission": 25815
+ },
+ {
+  "Country": "Mali",
+  "Company": "Pertamina",
+  "Emission": 35622
+ },
+ {
+  "Country": "Malta",
+  "Company": "XMXYG",
+  "Emission": 24043
+ },
+ {
+  "Country": "Man, Insel",
+  "Company": "Christian Dior",
+  "Emission": 15443
+ },
+ {
+  "Country": "Marianen, Nördliche",
+  "Company": "Wells Fargo",
+  "Emission": 30524
+ },
+ {
+  "Country": "Marokko",
+  "Company": "Walt Disney",
+  "Emission": 55190
+ },
+ {
+  "Country": "Marshall Inseln",
+  "Company": "China North Industries Group",
+  "Emission": 1978
+ },
+ {
+  "Country": "Martinique Franz.Verwaltung",
+  "Company": "Tencent Holdings",
+  "Emission": 42586
+ },
+ {
+  "Country": "Mauretanien",
+  "Company": "Japan Post Holdings",
+  "Emission": 44491
+ },
+ {
+  "Country": "Mauretanien",
+  "Company": "ConocoPhillips",
+  "Emission": 39662
+ },
+ {
+  "Country": "Mauritius",
+  "Company": "Aviation Industry Corp. of China",
+  "Emission": 53175
+ },
+ {
+  "Country": "Mayotte",
+  "Company": "Maersk Group",
+  "Emission": 8031
+ },
+ {
+  "Country": "Mexiko",
+  "Company": "Tesla",
+  "Emission": 7439
+ },
+ {
+  "Country": "Mexiko",
+  "Company": "Hitachi",
+  "Emission": 55075
+ },
+ {
+  "Country": "Mikronesien",
+  "Company": "Procter & Gamble",
+  "Emission": 58775
+ },
+ {
+  "Country": "Moldau, Republik",
+  "Company": "ArcelorMittal",
+  "Emission": 19922
+ },
+ {
+  "Country": "Monaco",
+  "Company": "Tesco",
+  "Emission": 13133
+ },
+ {
+  "Country": "Mongolei",
+  "Company": "Pacific Construction Group",
+  "Emission": 5367
+ },
+ {
+  "Country": "Montenegro",
+  "Company": "Oil & Natural Gas",
+  "Emission": 1839
+ },
+ {
+  "Country": "Montserrat (GB-Verwaltung)",
+  "Company": "U.S. Postal Service",
+  "Emission": 23508
+ },
+ {
+  "Country": "Mosambik",
+  "Company": "Nissan Motor",
+  "Emission": 6743
+ },
+ {
+  "Country": "Myanmar",
+  "Company": "Bank of Communications",
+  "Emission": 55980
+ },
+ {
+  "Country": "Namibia",
+  "Company": "Siemens",
+  "Emission": 31227
+ },
+ {
+  "Country": "Namibia",
+  "Company": "Jinneng Holding Group",
+  "Emission": 15236
+ },
+ {
+  "Country": "Nauru",
+  "Company": "Albertsons",
+  "Emission": 52780
+ },
+ {
+  "Country": "Nepal",
+  "Company": "Guangzhou Automobile Industry Group",
+  "Emission": 4103
+ },
+ {
+  "Country": "Neukaledonien",
+  "Company": "Aluminum Corp. of China",
+  "Emission": 47614
+ },
+ {
+  "Country": "Neuseeland",
+  "Company": "General Electric",
+  "Emission": 5592
+ },
+ {
+  "Country": "Nicaragua",
+  "Company": "Taiwan Semiconductor Manufacturing",
+  "Emission": 23156
+ },
+ {
+  "Country": "Niederlande",
+  "Company": "Shaanxi Coal & Chemical Industry",
+  "Emission": 10116
+ },
+ {
+  "Country": "Niger",
+  "Company": "Munich Re Group",
+  "Emission": 955
+ },
+ {
+  "Country": "Nigeria",
+  "Company": "Jiangxi Copper",
+  "Emission": 10451
+ },
+ {
+  "Country": "Niue (Neuseel.Verwaltung)",
+  "Company": "Shandong Weiqiao Pioneering Group",
+  "Emission": 4687
+ },
+ {
+  "Country": "Norfolkinsel",
+  "Company": "China Vanke",
+  "Emission": 6148
+ },
+ {
+  "Country": "Norwegen",
+  "Company": "Wilmar International",
+  "Emission": 57295
+ },
+ {
+  "Country": "Österreich",
+  "Company": "China Merchants Group",
+  "Emission": 57048
+ },
+ {
+  "Country": "Oman",
+  "Company": "Toyota Tsusho",
+  "Emission": 27150
+ },
+ {
+  "Country": "Pakistan",
+  "Company": "JBS",
+  "Emission": 20107
+ },
+ {
+  "Country": "Palästina",
+  "Company": "Repsol",
+  "Emission": 27893
+ },
+ {
+  "Country": "Palau",
+  "Company": "China Merchants Bank",
+  "Emission": 23721
+ },
+ {
+  "Country": "Panama",
+  "Company": "BHP Group",
+  "Emission": 40661
+ },
+ {
+  "Country": "Panama",
+  "Company": "Nippon Life Insurance",
+  "Emission": 49477
+ },
+ {
+  "Country": "Papua Neuguinea",
+  "Company": "Dai-ichi Life Holdings",
+  "Emission": 7662
+ },
+ {
+  "Country": "Paraguay",
+  "Company": "MetLife",
+  "Emission": 19098
+ },
+ {
+  "Country": "Peru",
+  "Company": "Roche Group",
+  "Emission": 267
+ },
+ {
+  "Country": "Philippinen",
+  "Company": "Goldman Sachs Group",
+  "Emission": 20516
+ },
+ {
+  "Country": "Pitcairninsel",
+  "Company": "Sysco",
+  "Emission": 47500
+ },
+ {
+  "Country": "Polen",
+  "Company": "Mitsubishi UFJ Financial Group",
+  "Emission": 57623
+ },
+ {
+  "Country": "Portugal",
+  "Company": "Dongfeng Motor",
+  "Emission": 56514
+ },
+ {
+  "Country": "Puerto Rico (US-Verwaltung)",
+  "Company": "AEON",
+  "Emission": 6426
+ },
+ {
+  "Country": "Republik Nordmazedonien",
+  "Company": "Marubeni",
+  "Emission": 50381
+ },
+ {
+  "Country": "Reunion",
+  "Company": "China Poly Group",
+  "Emission": 31420
+ },
+ {
+  "Country": "Ruanda",
+  "Company": "China Pacific Insurance (Group)",
+  "Emission": 10030
+ },
+ {
+  "Country": "Rumänien",
+  "Company": "Beijing Automotive Group",
+  "Emission": 37807
+ },
+ {
+  "Country": "Russische Föderation",
+  "Company": "Bunge",
+  "Emission": 119
+ },
+ {
+  "Country": "Saint Barthélemy (Franz.Verwaltung)",
+  "Company": "RTX",
+  "Emission": 38474
+ },
+ {
+  "Country": "Saint Martin (Franz. Verwaltung)",
+  "Company": "Kia",
+  "Emission": 3477
+ },
+ {
+  "Country": "Salomonen",
+  "Company": "Boeing",
+  "Emission": 19279
+ },
+ {
+  "Country": "Sambia",
+  "Company": "StoneX Group",
+  "Emission": 6643
+ },
+ {
+  "Country": "Samoa-Amerikanisch (US-Verwaltung)",
+  "Company": "Lockheed Martin",
+  "Emission": 16432
+ },
+ {
+  "Country": "Samoa-West",
+  "Company": "Morgan Stanley",
+  "Emission": 49029
+ },
+ {
+  "Country": "San Marino",
+  "Company": "POSCO Holdings",
+  "Emission": 22560
+ },
+ {
+  "Country": "Sao Tome und Principe",
+  "Company": "Vinci",
+  "Emission": 9153
+ },
+ {
+  "Country": "Saudi-Arabien",
+  "Company": "OMV Group",
+  "Emission": 50486
+ },
+ {
+  "Country": "Schweden",
+  "Company": "LG Electronics",
+  "Emission": 16002
+ },
+ {
+  "Country": "Schweiz",
+  "Company": "Greenland Holding Group",
+  "Emission": 17947
+ },
+ {
+  "Country": "Senegal",
+  "Company": "Country Garden Holdings",
+  "Emission": 56826
+ },
+ {
+  "Country": "Serbien (exkl. Kosovo)",
+  "Company": "Itaú Unibanco Holding",
+  "Emission": 3378
+ },
+ {
+  "Country": "Seychellen",
+  "Company": "Société Générale",
+  "Emission": 21138
+ },
+ {
+  "Country": "Sierra Leone",
+  "Company": "China Huaneng Group",
+  "Emission": 49028
+ },
+ {
+  "Country": "Sierra Leone",
+  "Company": "Unilever",
+  "Emission": 8373
+ },
+ {
+  "Country": "Simbabwe",
+  "Company": "Intel",
+  "Emission": 44559
+ },
+ {
+  "Country": "Singapur",
+  "Company": "BYD",
+  "Emission": 31909
+ },
+ {
+  "Country": "Slowakei",
+  "Company": "HP",
+  "Emission": 4364
+ },
+ {
+  "Country": "Slowenien",
+  "Company": "Alimentation Couche-Tard",
+  "Emission": 3956
+ },
+ {
+  "Country": "Somalia",
+  "Company": "TD Synnex",
+  "Emission": 51286
+ },
+ {
+  "Country": "Spanien",
+  "Company": "PKN ORLEN Group",
+  "Emission": 31587
+ },
+ {
+  "Country": "Spitzb. und Jan Mayen Insel (Norw.Verw.)",
+  "Company": "Lenovo Group",
+  "Emission": 54456
+ },
+ {
+  "Country": "Sri Lanka",
+  "Company": "Panasonic Holdings",
+  "Emission": 42870
+ },
+ {
+  "Country": "St. Martin",
+  "Company": "Airbus",
+  "Emission": 42669
+ },
+ {
+  "Country": "St. Vincent und die Grenadinen",
+  "Company": "Accenture",
+  "Emission": 46834
+ },
+ {
+  "Country": "St.Helena",
+  "Company": "Idemitsu Kosan",
+  "Emission": 8812
+ },
+ {
+  "Country": "St.Kitts und Nevis",
+  "Company": "Shenghong Holding Group",
+  "Emission": 1410
+ },
+ {
+  "Country": "St.Lucia",
+  "Company": "Industrial Bank",
+  "Emission": 32281
+ },
+ {
+  "Country": "St.Pierre und Miquelon",
+  "Company": "IBM",
+  "Emission": 17188
+ },
+ {
+  "Country": "Sudan",
+  "Company": "Zhejiang Geely Holding Group",
+  "Emission": 32877
+ },
+ {
+  "Country": "Südafrika",
+  "Company": "HCA Healthcare",
+  "Emission": 37867
+ },
+ {
+  "Country": "Südgeorgien und Süd-Sandwich-Insel",
+  "Company": "Prudential Financial",
+  "Emission": 30356
+ },
+ {
+  "Country": "Südsudan",
+  "Company": "Louis Dreyfus",
+  "Emission": 40363
+ },
+ {
+  "Country": "Suriname",
+  "Company": "HBIS Group",
+  "Emission": 46913
+ },
+ {
+  "Country": "Syrien",
+  "Company": "Caterpillar",
+  "Emission": 1197
+ },
+ {
+  "Country": "Tadschikistan",
+  "Company": "Merck",
+  "Emission": 46568
+ },
+ {
+  "Country": "Taiwan",
+  "Company": "Deutsche Bahn",
+  "Emission": 14490
+ },
+ {
+  "Country": "Tansania, Vereinigte Republik",
+  "Company": "Bharat Petroleum",
+  "Emission": 10910
+ },
+ {
+  "Country": "Thailand",
+  "Company": "World Kinect",
+  "Emission": 45284
+ },
+ {
+  "Country": "Timor-Leste",
+  "Company": "State Bank of India",
+  "Emission": 56304
+ },
+ {
+  "Country": "Togo",
+  "Company": "Nippon Steel Corporation",
+  "Emission": 4275
+ },
+ {
+  "Country": "Tokelau (Neuseel.Verwaltung)",
+  "Company": "Energie Baden-Wurttemberg",
+  "Emission": 549
+ },
+ {
+  "Country": "Tonga",
+  "Company": "New York Life Insurance",
+  "Emission": 24936
+ },
+ {
+  "Country": "Trinidad und Tobago",
+  "Company": "Enterprise Products Partners",
+  "Emission": 18551
+ },
+ {
+  "Country": "Tschad",
+  "Company": "AbbVie",
+  "Emission": 38211
+ },
+ {
+  "Country": "Tschechien",
+  "Company": "Anheuser-Busch InBev",
+  "Emission": 44596
+ },
+ {
+  "Country": "Türkei",
+  "Company": "Tokyo Electric Power",
+  "Emission": 39317
+ },
+ {
+  "Country": "Tunesien",
+  "Company": "Plains GP Holdings",
+  "Emission": 40922
+ },
+ {
+  "Country": "Turkmenistan",
+  "Company": "Zhejiang Hengyi Group",
+  "Emission": 8472
+ },
+ {
+  "Country": "Turks- und Caicosinseln",
+  "Company": "Dow",
+  "Emission": 44584
+ },
+ {
+  "Country": "Tuvalu",
+  "Company": "Iberdrola",
+  "Emission": 14185
+ },
+ {
+  "Country": "Uganda",
+  "Company": "China National Building Material Group",
+  "Emission": 43911
+ },
+ {
+  "Country": "Ukraine",
+  "Company": "American International Group",
+  "Emission": 40777
+ },
+ {
+  "Country": "Ungarn",
+  "Company": "Talanx",
+  "Emission": 805
+ },
+ {
+  "Country": "Uruguay",
+  "Company": "Sberbank",
+  "Emission": 6955
+ },
+ {
+  "Country": "Uruguay",
+  "Company": "Banco do Brasil",
+  "Emission": 15348
+ },
+ {
+  "Country": "Uruguay",
+  "Company": "China Electronics Technology Group",
+  "Emission": 48512
+ },
+ {
+  "Country": "USA - Sonstige Kleine Inseln",
+  "Company": "American Express",
+  "Emission": 53108
+ },
+ {
+  "Country": "USA - Vereinigte Staaten",
+  "Company": "Rio Tinto Group",
+  "Emission": 37373
+ },
+ {
+  "Country": "Usbekistan",
+  "Company": "Publix Super Markets",
+  "Emission": 39265
+ },
+ {
+  "Country": "Vanuatu",
+  "Company": "China Energy Engineering Group",
+  "Emission": 40947
+ },
+ {
+  "Country": "Vatikan",
+  "Company": "Tsingshan Holding Group",
+  "Emission": 1704
+ },
+ {
+  "Country": "Venezuela",
+  "Company": "Korea Electric Power",
+  "Emission": 46515
+ },
+ {
+  "Country": "Vereinigte Arabische Emirate",
+  "Company": "Koç Holding",
+  "Emission": 33981
+ },
+ {
+  "Country": "Vietnam",
+  "Company": "Shanghai Pudong Development Bank",
+  "Emission": 27584
+ },
+ {
+  "Country": "Wallis und Futuna",
+  "Company": "Charter Communications",
+  "Emission": 52334
+ },
+ {
+  "Country": "Weihnachtsinsel (Austr.Verwaltung)",
+  "Company": "State Power Investment",
+  "Emission": 35413
+ },
+ {
+  "Country": "Westsahara Eigenst.Staat",
+  "Company": "Saint-Gobain",
+  "Emission": 1731
+ },
+ {
+  "Country": "Westsahara Eigenst.Staat",
+  "Company": "Daimler Truck Holding",
+  "Emission": 52492
+ },
+ {
+  "Country": "Westsahara Eigenst.Staat",
+  "Company": "Bayer",
+  "Emission": 5901
+ },
+ {
+  "Country": "Zentralafrikanische Republik",
+  "Company": "Tyson Foods",
+  "Emission": 17895
+ },
+ {
+  "Country": "Zypern",
+  "Company": "China United Network Communications",
+  "Emission": 12770
+ },
+ {
+  "Country": "Ägypten",
+  "Company": "Deere",
+  "Emission": 12921
+ },
+ {
+  "Country": "Äquatorial Guinea",
+  "Company": "Shaanxi Yanchang Petroleum (Group)",
+  "Emission": 47785
+ },
+ {
+  "Country": "Äthiopien",
+  "Company": "Royal Bank of Canada",
+  "Emission": 23129
+ },
+ {
+  "Country": "Afghanistan",
+  "Company": "Novartis",
+  "Emission": 57718
+ },
+ {
+  "Country": "Aland",
+  "Company": "China State Shipbuilding",
+  "Emission": 4707
+ },
+ {
+  "Country": "Albanien",
+  "Company": "Banco Bradesco",
+  "Emission": 44055
+ },
+ {
+  "Country": "Algerien",
+  "Company": "Cisco Systems",
+  "Emission": 18646
+ },
+ {
+  "Country": "Andorra",
+  "Company": "Nationwide",
+  "Emission": 47558
+ },
+ {
+  "Country": "Angola",
+  "Company": "Allstate",
+  "Emission": 58415
+ },
+ {
+  "Country": "Anguilla",
+  "Company": "Cenovus Energy",
+  "Emission": 4626
+ },
+ {
+  "Country": "Antarktis",
+  "Company": "Midea Group",
+  "Emission": 55960
+ },
+ {
+  "Country": "Antigua und Barbuda",
+  "Company": "Sinomach",
+  "Emission": 18021
+ },
+ {
+  "Country": "Argentinien",
+  "Company": "Delta Air Lines",
+  "Emission": 49649
+ },
+ {
+  "Country": "Armenien",
+  "Company": "LyondellBasell Industries",
+  "Emission": 19007
+ },
+ {
+  "Country": "Aruba",
+  "Company": "Sumitomo",
+  "Emission": 59551
+ },
+ {
+  "Country": "Aserbeidschan",
+  "Company": "Ansteel Group",
+  "Emission": 50545
+ },
+ {
+  "Country": "Australien",
+  "Company": "Liberty Mutual Insurance Group",
+  "Emission": 6973
+ },
+ {
+  "Country": "Bahamas",
+  "Company": "TJX",
+  "Emission": 36989
+ },
+ {
+  "Country": "Bahrain",
+  "Company": "Renault",
+  "Emission": 36143
+ },
+ {
+  "Country": "Bangladesch",
+  "Company": "Progressive",
+  "Emission": 8820
+ },
+ {
+  "Country": "Barbados",
+  "Company": "Edeka Zentrale",
+  "Emission": 1445
+ },
+ {
+  "Country": "Belarus (Weissrussland)",
+  "Company": "Jinchuan Group",
+  "Emission": 18695
+ },
+ {
+  "Country": "Belgien",
+  "Company": "Tokio Marine Holdings",
+  "Emission": 10940
+ },
+ {
+  "Country": "Belize",
+  "Company": "American Airlines Group",
+  "Emission": 35255
+ },
+ {
+  "Country": "Benin",
+  "Company": "Contemporary Amperex Technology",
+  "Emission": 41249
+ },
+ {
+  "Country": "Bermuda",
+  "Company": "Energi Danmark Group",
+  "Emission": 54640
+ },
+ {
+  "Country": "Bhutan",
+  "Company": "Toronto-Dominion Bank",
+  "Emission": 58882
+ },
+ {
+  "Country": "Bhutan",
+  "Company": "SoftBank Group",
+  "Emission": 28041
+ },
+ {
+  "Country": "Bolivien",
+  "Company": "Hanwha",
+  "Emission": 1127
+ },
+ {
+  "Country": "Bolivien",
+  "Company": "ING Group",
+  "Emission": 44904
+ },
+ {
+  "Country": "Bonaire, St. Eustatius und Saba",
+  "Company": "CHS",
+  "Emission": 32440
+ },
+ {
+  "Country": "Bosnien und Herzegowina",
+  "Company": "Sanofi",
+  "Emission": 26016
+ },
+ {
+  "Country": "Botsuana",
+  "Company": "Groupe BPCE",
+  "Emission": 29520
+ },
+ {
+  "Country": "Bouvetinsel",
+  "Company": "Raízen",
+  "Emission": 56937
+ },
+ {
+  "Country": "Brasilien",
+  "Company": "Vodafone Group",
+  "Emission": 47768
+ },
+ {
+  "Country": "Brit.Terr.Im Indischen Ozean",
+  "Company": "Denso",
+  "Emission": 42362
+ },
+ {
+  "Country": "Brunei Darussalam",
+  "Company": "Performance Food Group",
+  "Emission": 39965
+ },
+ {
+  "Country": "Bulgarien",
+  "Company": "HD Hyundai",
+  "Emission": 3308
+ },
+ {
+  "Country": "Burkina Faso",
+  "Company": "PBF Energy",
+  "Emission": 45223
+ },
+ {
+  "Country": "Burundi",
+  "Company": "Volvo",
+  "Emission": 16698
+ },
+ {
+  "Country": "Chile",
+  "Company": "Nike",
+  "Emission": 45979
+ },
+ {
+  "Country": "Chile",
+  "Company": "Bouygues",
+  "Emission": 59371
+ },
+ {
+  "Country": "China",
+  "Company": "Zhejiang Communications Investment Group",
+  "Emission": 12768
+ },
+ {
+  "Country": "Cook-Inseln Neuseel.Verwaltung",
+  "Company": "Best Buy",
+  "Emission": 15458
+ },
+ {
+  "Country": "Costa Rica",
+  "Company": "Bristol-Myers Squibb",
+  "Emission": 47250
+ },
+ {
+  "Country": "Cote D'Ivoire (Elfenbeinkueste)",
+  "Company": "Susun Construction Group",
+  "Emission": 42560
+ },
+ {
+  "Country": "Curaçao",
+  "Company": "Ingka Group",
+  "Emission": 35043
+ },
+ {
+  "Country": "Dänemark",
+  "Company": "ZF Friedrichshafen",
+  "Emission": 26793
+ },
+ {
+  "Country": "Deutschland",
+  "Company": "Swiss Re",
+  "Emission": 25710
+ },
+ {
+  "Country": "Dominica",
+  "Company": "EXOR Group",
+  "Emission": 39887
+ },
+ {
+  "Country": "Dominikanische Republik",
+  "Company": "Banco Bilbao Vizcaya Argentaria",
+  "Emission": 23936
+ },
+ {
+  "Country": "Dschibuti",
+  "Company": "Orange",
+  "Emission": 42798
+ },
+ {
+  "Country": "Ecuador",
+  "Company": "Jingye Group",
+  "Emission": 40294
+ },
+ {
+  "Country": "El Salvador",
+  "Company": "Sumitomo Mitsui Financial Group",
+  "Emission": 20425
+ },
+ {
+  "Country": "Eritrea",
+  "Company": "GS Caltex",
+  "Emission": 40538
+ },
+ {
+  "Country": "Estland",
+  "Company": "China Huadian",
+  "Emission": 38087
+ },
+ {
+  "Country": "Eswatini",
+  "Company": "Veolia Environnement",
+  "Emission": 3150
+ },
+ {
+  "Country": "Eswatini",
+  "Company": "Barclays",
+  "Emission": 57611
+ },
+ {
+  "Country": "Faeroeer Inseln Dän.Verwaltung",
+  "Company": "United Airlines Holdings",
+  "Emission": 52578
+ },
+ {
+  "Country": "Falklandinseln (Malvinen)",
+  "Company": "Suncor Energy",
+  "Emission": 4574
+ },
+ {
+  "Country": "Fidschi",
+  "Company": "Thermo Fisher Scientific",
+  "Emission": 4345
+ },
+ {
+  "Country": "Finnland",
+  "Company": "China Minsheng Banking",
+  "Emission": 49815
+ },
+ {
+  "Country": "Frankreich",
+  "Company": "ThyssenKrupp",
+  "Emission": 52661
+ },
+ {
+  "Country": "Franz. Südgebiete",
+  "Company": "AstraZeneca",
+  "Emission": 7994
+ },
+ {
+  "Country": "Französisch Guayana",
+  "Company": "Vale",
+  "Emission": 32218
+ },
+ {
+  "Country": "Französisch Polynesien",
+  "Company": "Pegatron",
+  "Emission": 36980
+ },
+ {
+  "Country": "Gabun",
+  "Company": "Qualcomm",
+  "Emission": 38275
+ },
+ {
+  "Country": "Gambia",
+  "Company": "Woolworths Group",
+  "Emission": 43420
+ },
+ {
+  "Country": "Georgien",
+  "Company": "George Weston",
+  "Emission": 33469
+ },
+ {
+  "Country": "Ghana",
+  "Company": "Tata Motors",
+  "Emission": 2675
+ },
+ {
+  "Country": "Gibraltar",
+  "Company": "Abbott Laboratories",
+  "Emission": 31902
+ },
+ {
+  "Country": "Grenada",
+  "Company": "KB Financial Group",
+  "Emission": 43877
+ },
+ {
+  "Country": "Griechenland",
+  "Company": "SNCF Group",
+  "Emission": 38088
+ },
+ {
+  "Country": "Grönland (Dän.Verwaltung)",
+  "Company": "China South Industries Group",
+  "Emission": 51784
+ },
+ {
+  "Country": "Großbritannien",
+  "Company": "Chubb",
+  "Emission": 11051
+ },
+ {
+  "Country": "Guadeloupe (Franz.Verwaltung)",
+  "Company": "GSK",
+  "Emission": 6780
+ },
+ {
+  "Country": "Guam (US-Verwaltung)",
+  "Company": "Coca-Cola",
+  "Emission": 6610
+ },
+ {
+  "Country": "Guatemala",
+  "Company": "Quanta Computer",
+  "Emission": 9765
+ },
+ {
+  "Country": "Guernsey Insel",
+  "Company": "Fresenius",
+  "Emission": 37124
+ },
+ {
+  "Country": "Guinea",
+  "Company": "UBS Group",
+  "Emission": 7728
+ },
+ {
+  "Country": "Guinea-Bissau",
+  "Company": "Jiangsu Shagang Group",
+  "Emission": 59911
+ },
+ {
+  "Country": "Guyana",
+  "Company": "America Movil",
+  "Emission": 33958
+ },
+ {
+  "Country": "Haiti",
+  "Company": "Mizuho Financial Group",
+  "Emission": 46841
+ },
+ {
+  "Country": "Haiti",
+  "Company": "Shanghai Construction Group",
+  "Emission": 38345
+ },
+ {
+  "Country": "Heard und Mc Donald Inseln (unter Austr.Verw.)",
+  "Company": "Oracle",
+  "Emission": 39427
+ },
+ {
+  "Country": "Honduras",
+  "Company": "Rajesh Exports",
+  "Emission": 38872
+ },
+ {
+  "Country": "Hongkong",
+  "Company": "Deutsche Bank",
+  "Emission": 41788
+ },
+ {
+  "Country": "Indien",
+  "Company": "Telefónica",
+  "Emission": 54692
+ },
+ {
+  "Country": "Indonesien",
+  "Company": "China National Coal Group",
+  "Emission": 25712
+ },
+ {
+  "Country": "Irak",
+  "Company": "KDDI",
+  "Emission": 3443
+ },
+ {
+  "Country": "Iran",
+  "Company": "Zurich Insurance Group",
+  "Emission": 25564
+ },
+ {
+  "Country": "Irland",
+  "Company": "Shanxi Coking Coal Group",
+  "Emission": 27165
+ },
+ {
+  "Country": "Island",
+  "Company": "Xiaomi",
+  "Emission": 33297
+ },
+ {
+  "Country": "Israel",
+  "Company": "Nucor",
+  "Emission": 2050
+ },
+ {
+  "Country": "Italien",
+  "Company": "Continental",
+  "Emission": 13767
+ },
+ {
+  "Country": "Jamaika",
+  "Company": "New Hope Holding Group",
+  "Emission": 39762
+ },
+ {
+  "Country": "Japan",
+  "Company": "Kuehne + Nagel International",
+  "Emission": 52045
+ },
+ {
+  "Country": "Jemen",
+  "Company": "Enbridge",
+  "Emission": 27301
+ },
+ {
+  "Country": "Jersey Insel",
+  "Company": "TIAA",
+  "Emission": 18198
+ },
+ {
+  "Country": "Jordanien",
+  "Company": "RWE",
+  "Emission": 50913
+ },
+ {
+  "Country": "Jungfern-Inseln (Britisch)",
+  "Company": "China Electronics",
+  "Emission": 15174
+ },
+ {
+  "Country": "Jungfern-Inseln (USA)",
+  "Company": "Massachusetts Mutual Life Insurance",
+  "Emission": 55175
+ },
+ {
+  "Country": "Kaimaninseln",
+  "Company": "L'Oréal",
+  "Emission": 22500
+ },
+ {
+  "Country": "Kambodscha",
+  "Company": "LG Chem",
+  "Emission": 21867
+ },
+ {
+  "Country": "Kamerun",
+  "Company": "Hyundai Mobis",
+  "Emission": 19406
+ },
+ {
+  "Country": "Kanada",
+  "Company": "Zijin Mining Group",
+  "Emission": 14571
+ },
+ {
+  "Country": "Kap Verde",
+  "Company": "Korea Gas",
+  "Emission": 47970
+ },
+ {
+  "Country": "Kasachstan",
+  "Company": "Meiji Yasuda Life Insurance",
+  "Emission": 40065
+ },
+ {
+  "Country": "Katar",
+  "Company": "Olam Group",
+  "Emission": 10873
+ },
+ {
+  "Country": "Kenia",
+  "Company": "S.F. Holding",
+  "Emission": 13841
+ },
+ {
+  "Country": "Kirgisistan",
+  "Company": "CPC",
+  "Emission": 28834
+ },
+ {
+  "Country": "Kiribati",
+  "Company": "General Dynamics",
+  "Emission": 40889
+ },
+ {
+  "Country": "Kokosinseln (Keeling)",
+  "Company": "Guangzhou Municipal Construction Group",
+  "Emission": 47505
+ },
+ {
+  "Country": "Kolumbien",
+  "Company": "China National Nuclear",
+  "Emission": 54671
+ },
+ {
+  "Country": "Kolumbien",
+  "Company": "JFE Holdings",
+  "Emission": 37851
+ },
+ {
+  "Country": "Komoren",
+  "Company": "Intesa Sanpaolo",
+  "Emission": 25112
+ },
+ {
+  "Country": "Kongo",
+  "Company": "MS&AD Insurance Group Holdings",
+  "Emission": 11584
+ },
+ {
+  "Country": "Kongo, Demokratische Republik",
+  "Company": "China Taiping Insurance Group",
+  "Emission": 46309
+ },
+ {
+  "Country": "Korea, Demokratische Volksrepublik",
+  "Company": "Capital One Financial",
+  "Emission": 24886
+ },
+ {
+  "Country": "Korea, Republik",
+  "Company": "HF Sinclair",
+  "Emission": 34542
+ },
+ {
+  "Country": "Kosovo",
+  "Company": "Phoenix Pharma",
+  "Emission": 48542
+ },
+ {
+  "Country": "Kroatien",
+  "Company": "Shudao Investment Group",
+  "Emission": 11459
+ },
+ {
+  "Country": "Kuba",
+  "Company": "J. Sainsbury",
+  "Emission": 55518
+ },
+ {
+  "Country": "Kuba",
+  "Company": "Shenzhen Investment Holdings",
+  "Emission": 10052
+ },
+ {
+  "Country": "Kuwait",
+  "Company": "Nutrien",
+  "Emission": 15479
+ },
+ {
+  "Country": "Laos",
+  "Company": "Dollar General",
+  "Emission": 2607
+ },
+ {
+  "Country": "Lesotho",
+  "Company": "Magna International",
+  "Emission": 51424
+ },
+ {
+  "Country": "Lesotho",
+  "Company": "Jardine Matheson",
+  "Emission": 25442
+ },
+ {
+  "Country": "Lettland",
+  "Company": "China Datang",
+  "Emission": 58962
+ },
+ {
+  "Country": "Libanon",
+  "Company": "Ecopetrol",
+  "Emission": 14753
+ },
+ {
+  "Country": "Liberien",
+  "Company": "X5 Retail Group",
+  "Emission": 27118
+ },
+ {
+  "Country": "Libysch-Arabische Dschamahirija",
+  "Company": "Power Corp. of Canada",
+  "Emission": 17245
+ },
+ {
+  "Country": "Liechtenstein",
+  "Company": "China Aerospace Science & Industry",
+  "Emission": 51034
+ },
+ {
+  "Country": "Litauen",
+  "Company": "GasTerra",
+  "Emission": 48529
+ },
+ {
+  "Country": "Luxemburg",
+  "Company": "Longfor Group Holdings",
+  "Emission": 49778
+ },
+ {
+  "Country": "Macao",
+  "Company": "La Poste",
+  "Emission": 19323
+ },
+ {
+  "Country": "Madagaskar",
+  "Company": "Arrow Electronics",
+  "Emission": 39268
+ },
+ {
+  "Country": "Malawi",
+  "Company": "Occidental Petroleum",
+  "Emission": 57254
+ },
+ {
+  "Country": "Malaysia",
+  "Company": "Caixa Econômica Federal",
+  "Emission": 52826
+ },
+ {
+  "Country": "Malediven",
+  "Company": "Mitsubishi Electric",
+  "Emission": 51462
+ },
+ {
+  "Country": "Mali",
+  "Company": "Northwestern Mutual",
+  "Emission": 30641
+ },
+ {
+  "Country": "Malta",
+  "Company": "Travelers",
+  "Emission": 11786
+ },
+ {
+  "Country": "Man, Insel",
+  "Company": "Shougang Group",
+  "Emission": 28456
+ },
+ {
+  "Country": "Marianen, Nördliche",
+  "Company": "Hangzhou Iron and Steel Group",
+  "Emission": 35365
+ },
+ {
+  "Country": "Marokko",
+  "Company": "Xinjiang Zhongtai Group",
+  "Emission": 23679
+ },
+ {
+  "Country": "Marshall Inseln",
+  "Company": "Northrop Grumman",
+  "Emission": 8025
+ },
+ {
+  "Country": "Martinique Franz.Verwaltung",
+  "Company": "Guangzhou Industrial Investment Holdings",
+  "Emission": 4897
+ },
+ {
+  "Country": "Mauretanien",
+  "Company": "Bank of Nova Scotia",
+  "Emission": 3833
+ },
+ {
+  "Country": "Mauretanien",
+  "Company": "Hapag-Lloyd",
+  "Emission": 11066
+ },
+ {
+  "Country": "Mauritius",
+  "Company": "USAA",
+  "Emission": 20686
+ },
+ {
+  "Country": "Mayotte",
+  "Company": "Daiwa House Industry",
+  "Emission": 1759
+ },
+ {
+  "Country": "Mexiko",
+  "Company": "Haier Smart Home",
+  "Emission": 6907
+ },
+ {
+  "Country": "Mexiko",
+  "Company": "Compal Electronics",
+  "Emission": 35291
+ },
+ {
+  "Country": "Mikronesien",
+  "Company": "Schneider Electric",
+  "Emission": 51603
+ },
+ {
+  "Country": "Moldau, Republik",
+  "Company": "Finatis",
+  "Emission": 36170
+ },
+ {
+  "Country": "Monaco",
+  "Company": "ELO Group",
+  "Emission": 31887
+ },
+ {
+  "Country": "Mongolei",
+  "Company": "Naturgy Energy Group",
+  "Emission": 23125
+ },
+ {
+  "Country": "Montenegro",
+  "Company": "Honeywell International",
+  "Emission": 11359
+ },
+ {
+  "Country": "Montserrat (GB-Verwaltung)",
+  "Company": "Guangzhou Pharmaceutical Holdings",
+  "Emission": 56523
+ },
+ {
+  "Country": "Mosambik",
+  "Company": "Guangdong Guangxin Holdings",
+  "Emission": 5496
+ },
+ {
+  "Country": "Myanmar",
+  "Company": "ACS",
+  "Emission": 34944
+ },
+ {
+  "Country": "Namibia",
+  "Company": "Vibra Energia",
+  "Emission": 38546
+ },
+ {
+  "Country": "Namibia",
+  "Company": "Anglo American",
+  "Emission": 40865
+ },
+ {
+  "Country": "Nauru",
+  "Company": "Taikang Insurance Group",
+  "Emission": 9575
+ },
+ {
+  "Country": "Nepal",
+  "Company": "Shaanxi Construction Engineering Holding",
+  "Emission": 38916
+ },
+ {
+  "Country": "Neukaledonien",
+  "Company": "Bank of Montreal",
+  "Emission": 32038
+ },
+ {
+  "Country": "Neuseeland",
+  "Company": "CRRC Group",
+  "Emission": 8921
+ },
+ {
+  "Country": "Nicaragua",
+  "Company": "Coop Group",
+  "Emission": 20970
+ },
+ {
+  "Country": "Niederlande",
+  "Company": "TongLing Nonferrous Metals Group",
+  "Emission": 42146
+ },
+ {
+  "Country": "Niger",
+  "Company": "SK Hynix",
+  "Emission": 58694
+ },
+ {
+  "Country": "Nigeria",
+  "Company": "Shanghai Pharmaceuticals Holding",
+  "Emission": 48003
+ },
+ {
+  "Country": "Niue (Neuseel.Verwaltung)",
+  "Company": "Lufthansa Group",
+  "Emission": 13927
+ },
+ {
+  "Country": "Norfolkinsel",
+  "Company": "Shandong Hi-Speed Group",
+  "Emission": 35386
+ },
+ {
+  "Country": "Norwegen",
+  "Company": "Suzuki Motor",
+  "Emission": 3809
+ },
+ {
+  "Country": "Österreich",
+  "Company": "Mitsubishi Chemical Group",
+  "Emission": 22762
+ },
+ {
+  "Country": "Oman",
+  "Company": "3M",
+  "Emission": 52227
+ },
+ {
+  "Country": "Pakistan",
+  "Company": "Inditex",
+  "Emission": 53068
+ },
+ {
+  "Country": "Palästina",
+  "Company": "British American Tobacco",
+  "Emission": 28910
+ },
+ {
+  "Country": "Palau",
+  "Company": "US Foods Holding",
+  "Emission": 5814
+ },
+ {
+  "Country": "Panama",
+  "Company": "Sompo Holdings",
+  "Emission": 21258
+ },
+ {
+  "Country": "Panama",
+  "Company": "Magnit",
+  "Emission": 4011
+ },
+ {
+  "Country": "Papua Neuguinea",
+  "Company": "Warner Bros. Discovery",
+  "Emission": 46089
+ },
+ {
+  "Country": "Paraguay",
+  "Company": "Lennar",
+  "Emission": 53234
+ },
+ {
+  "Country": "Peru",
+  "Company": "Shanghai Delong Steel Group",
+  "Emission": 54707
+ },
+ {
+  "Country": "Philippinen",
+  "Company": "Poste Italiane",
+  "Emission": 8159
+ },
+ {
+  "Country": "Pitcairninsel",
+  "Company": "CK Hutchison Holdings",
+  "Emission": 11412
+ },
+ {
+  "Country": "Polen",
+  "Company": "Fomento Económico Mexicano",
+  "Emission": 8157
+ },
+ {
+  "Country": "Portugal",
+  "Company": "D.R. Horton",
+  "Emission": 24920
+ },
+ {
+  "Country": "Puerto Rico (US-Verwaltung)",
+  "Company": "Jabil",
+  "Emission": 50304
+ },
+ {
+  "Country": "Republik Nordmazedonien",
+  "Company": "Samsung C&T",
+  "Emission": 18086
+ },
+ {
+  "Country": "Reunion",
+  "Company": "Cheniere Energy",
+  "Emission": 36390
+ },
+ {
+  "Country": "Ruanda",
+  "Company": "CRH",
+  "Emission": 7655
+ },
+ {
+  "Country": "Rumänien",
+  "Company": "Linde",
+  "Emission": 34628
+ },
+ {
+  "Country": "Russische Föderation",
+  "Company": "DSV",
+  "Emission": 13043
+ },
+ {
+  "Country": "Saint Barthélemy (Franz.Verwaltung)",
+  "Company": "Broadcom",
+  "Emission": 37033
+ },
+ {
+  "Country": "Saint Martin (Franz. Verwaltung)",
+  "Company": "Wistron",
+  "Emission": 39116
+ },
+ {
+  "Country": "Salomonen",
+  "Company": "Anhui Conch Group",
+  "Emission": 55202
+ },
+ {
+  "Country": "Sambia",
+  "Company": "Beijing Jianlong Heavy Industry Group",
+  "Emission": 46616
+ },
+ {
+  "Country": "Samoa-Amerikanisch (US-Verwaltung)",
+  "Company": "Hunan Iron & Steel Group",
+  "Emission": 31093
+ },
+ {
+  "Country": "Samoa-West",
+  "Company": "Meituan",
+  "Emission": 13524
+ },
+ {
+  "Country": "San Marino",
+  "Company": "Lu’an Chemical Group",
+  "Emission": 50964
+ },
+ {
+  "Country": "Sao Tome und Principe",
+  "Company": "Compass Group",
+  "Emission": 49833
+ },
+ {
+  "Country": "Saudi-Arabien",
+  "Company": "Aisin",
+  "Emission": 5340
+ },
+ {
+  "Country": "Schweden",
+  "Company": "Canadian Natural Resources",
+  "Emission": 16013
+ },
+ {
+  "Country": "Schweiz",
+  "Company": "SAP",
+  "Emission": 38807
+ },
+ {
+  "Country": "Senegal",
+  "Company": "Starbucks",
+  "Emission": 22393
+ },
+ {
+  "Country": "Serbien (exkl. Kosovo)",
+  "Company": "Metro",
+  "Emission": 44947
+ },
+ {
+  "Country": "Seychellen",
+  "Company": "Molina Healthcare",
+  "Emission": 39152
+ },
+ {
+  "Country": "Sierra Leone",
+  "Company": "Tongwei Group",
+  "Emission": 49080
+ },
+ {
+  "Country": "Sierra Leone",
+  "Company": "Uber Technologies",
+  "Emission": 58896
+ },
+ {
+  "Country": "Simbabwe",
+  "Company": "New China Life Insurance",
+  "Emission": 55795
+ },
+ {
+  "Country": "Singapur",
+  "Company": "Luxshare Precision Industry",
+  "Emission": 18939
+ },
+ {
+  "Country": "Slowakei",
+  "Company": "Philip Morris International",
+  "Emission": 46498
+ },
+ {
+  "Country": "Slowenien",
+  "Company": "CJ Corp.",
+  "Emission": 48587
+ },
+ {
+  "Country": "Somalia",
+  "Company": "Medtronic",
+  "Emission": 53809
+ },
+ {
+  "Country": "Spanien",
+  "Company": "China National Aviation Fuel Group",
+  "Emission": 37049
+ },
+ {
+  "Country": "Spitzb. und Jan Mayen Insel (Norw.Verw.)",
+  "Company": "Netflix",
+  "Emission": 28898
+ },
+ {
+  "Country": "Sri Lanka",
+  "Company": "Migros Group",
+  "Emission": 13777
+ },
+ {
+  "Country": "St. Martin",
+  "Company": "NRG Energy",
+  "Emission": 11070
+ },
+ {
+  "Country": "St. Vincent und die Grenadinen",
+  "Company": "Mondelez International",
+  "Emission": 14914
+ },
+ {
+  "Country": "St.Helena",
+  "Company": "Air Liquide",
+  "Emission": 57524
+ },
+ {
+  "Country": "St.Kitts und Nevis",
+  "Company": "Danaher",
+  "Emission": 49566
+ },
+ {
+  "Country": "St.Lucia",
+  "Company": "Siemens Energy",
+  "Emission": 10064
+ },
+ {
+  "Country": "St.Pierre und Miquelon",
+  "Company": "Salesforce",
+  "Emission": 48339
+ },
+ {
+  "Country": "Sudan",
+  "Company": "Paramount Global",
+  "Emission": 46746
+ },
+ {
+  "Country": "Südafrika",
+  "Company": "Chengdu Xingcheng Investment Group",
+  "Emission": 36770
+ },
+ {
+  "Country": "Südgeorgien und Süd-Sandwich-Insel",
+  "Company": "Bridgestone",
+  "Emission": 38436
+ },
+ {
+  "Country": "Südsudan",
+  "Company": "Guangxi Investment Group",
+  "Emission": 39092
+ },
+ {
+  "Country": "Suriname",
+  "Company": "Samsung Life Insurance",
+  "Emission": 5453
+ },
+ {
+  "Country": "Syrien",
+  "Company": "Sumitomo Life Insurance",
+  "Emission": 7556
+ },
+ {
+  "Country": "Tadschikistan",
+  "Company": "CarMax",
+  "Emission": 41589
+ },
+ {
+  "Country": "Taiwan",
+  "Company": "Mitsubishi Heavy Industries",
+  "Emission": 3526
+ },
+ {
+  "Country": "Tansania, Vereinigte Republik",
+  "Company": "Xinjiang Guanghui Industry Investment",
+  "Emission": 11495
+ }
+]
+}
